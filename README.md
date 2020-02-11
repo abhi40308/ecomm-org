@@ -3,6 +3,12 @@ An ecommerce platform for non-profit organisations to sell their merchandise and
 Non-profit organisations have a hard time generating enough capital for campaigns. Generally donations and government help are not enough. Also there are a lot of users who want to help, but are too caught up in daily-life that they generally avoid the hassle. Donating money should a part of lifestyle and an
 easy thing to do.
 
+Screen1 : 
+![alt text](https://github.com/abhi40308/ecomm-org/blob/master/1.png)
+
+Screen2 : 
+![alt text](https://github.com/abhi40308/ecomm-org/blob/master/2.png)
+
 
 
 ## Run project 
